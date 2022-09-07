@@ -1,0 +1,12 @@
+to download the git client too
+
+to initial the repository 
+git clone
+
+git add --all
+
+git commit -m "commit Message"
+
+git push "repo link"
+
+git pull "repo link"
